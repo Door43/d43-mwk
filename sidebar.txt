@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mwk:home|Door43 (mwk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mwk|d43-mwk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mwk/archive/master.zip|d43-mwk.zip]]
+
+**Recent Changes**
+{{changes>ns = mwk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mwk|Ethnologue data]]
+
